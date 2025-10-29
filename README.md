@@ -1,0 +1,1 @@
+This is one of my first attempts at building a simple website with simple html. The goal was to create a webpage with 3 recipes and practice using ordered and unordered lists, links, and photos. Also, there was the added benefit of using git commands to push the files to Github.
